@@ -17,4 +17,4 @@ def autocorrect(word, dictionary):
 word = "phne"
 dictionary = ["phone", "correct", "word", "autocorrect"]
 corrected_word = autocorrect(word, dictionary)
-print(f"Autocorrected: {corrected_word}")
+print(f"Autocorrected:  {corrected_word}")
